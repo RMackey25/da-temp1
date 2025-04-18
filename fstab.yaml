@@ -1,6 +1,4 @@
 mountpoints:
-  /: 
-    url: https://content.da.live/rmackey25/da-temp1
+  /:
+    url: https://content.da.live/RMackey25/da-temp1/
     type: markup
-  
-  
